@@ -7,5 +7,10 @@
       "id": 2,
       "nome": "Lucas Cristovam",
       "texto": "Me chamo Lucas, possuo 18 anos de experiência na area de Desenvolvimento e criei este aplicativo para ficar muito rico."
+},
+ {
+      "id": 3,
+      "nome": "Igor Rosberg",
+      "texto": "Me chamo Igor, possuo 28 anos de experiência na area de Desenvolvimento e criei este aplicativo para ficar muito mais rico."
 }
 ]
